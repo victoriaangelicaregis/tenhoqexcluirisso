@@ -1,0 +1,105 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    margin: 0;
+    border: 0;
+  }
+  
+  header {
+    min-width: 100px;
+    min-height: 100px;
+    background-color: #c7c7c7;
+  }
+  
+    /*header::before {
+      content: "Header"
+    }*/
+  
+  aside {
+    min-width: 100px;
+    min-height: 100px;
+    background-color: #8f8f8f;
+  }
+    
+    /*aside::before {
+      content: "aside"
+    }*/
+  
+  main {
+    min-width: 100px;
+    min-height: 100px;
+    background-color: #e0e0e0;
+    padding: 1rem;
+  }
+    
+    /*main::before {
+      content: "main"
+    }*/
+  
+  footer {
+    min-width: 100px;
+    min-height: 100px;
+    background-color: #c7c7c7;
+  }
+    
+    /*footer::before {
+      content: "footer"
+    }*/
+
+  img {
+    max-width: 95px;
+  }
+
+  #galeria1 {
+    background-color: rgb(151, 151, 151);
+  }
+
+  #galeria2 {
+    background-color: rgb(157, 207, 255);
+  }
+
+  #galeria3 {
+    background-color: rgb(255, 202, 235);
+  }
+
+  #galeria4 {
+    background-color: rgb(255, 255, 173);
+  }
+
+  #galeria5 {
+    background-color: #ffb889;
+  }
+
+  h1,h2 {
+    text-align: center;
+  }
+
+  .linkaço {
+    color: rgb(209, 209, 209);
+  }
+
+  .linkdragao {
+    color: rgb(157, 207, 255);
+  }
+
+  .linkfada {
+    color: rgb(255, 202, 235);
+  }
+
+  .linkeletrico {
+    color: rgb(255, 255, 173);
+  }
+
+  .linkfogo {
+    color: #ffb889;
+  }
+
+  p {
+    text-align: center;
+  }
